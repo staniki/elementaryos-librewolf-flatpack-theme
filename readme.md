@@ -1,4 +1,4 @@
-# An elementary OS 6 (Odin) theme for Firefox
+# An elementary OS 6 (Odin) theme for LibreWolf (flatpack)
 ![Screenshot](theme-odin-new.png)
 
 ## Credits
